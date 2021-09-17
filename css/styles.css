@@ -1,0 +1,23 @@
+body {
+    font-size: 16pt;
+}
+
+header, main, footer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: rgb(37, 2, 2);
+}
+
+header img {
+    float: right;
+    width: 200px;
+    height: auto;
+}
+
+h1 {
+    font-size: 2rem;
+    color: rgb(188, 161, 199);
+}
