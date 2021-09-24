@@ -20,12 +20,17 @@ header {
 header img {
   width: 200px;
   height: auto;
+  border: solid;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1rem;
   font-family: "Caudex", serif;
   color: aquamarine;
   padding: 1rem;
-  justify-content: center;
+}
+
+footer {
+  color: aquamarine;
+  background-color: darkblue;
 }
