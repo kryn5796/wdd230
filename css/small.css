@@ -1,5 +1,7 @@
 body {
   font-size: 16pt;
+  background-color: aquamarine;
+  color: rgb(37, 2, 2);
 }
 
 header,
@@ -10,16 +12,18 @@ footer {
 }
 
 header {
-  background-color: rgb(37, 2, 2);
+  color: aquamarine;
+  background-color: darkblue;
 }
 
 header img {
-  float: right;
   width: 200px;
   height: auto;
 }
 
 h1 {
   font-size: 2rem;
-  color: rgb(188, 161, 199);
+  color: aquamarine;
+  padding: 1rem;
+  justify-content: center;
 }
