@@ -1,5 +1,6 @@
 body {
   font-size: 16pt;
+  font-family: "Darker Grotesque", sans-serif;
   background-color: aquamarine;
   color: rgb(37, 2, 2);
 }
@@ -23,6 +24,7 @@ header img {
 
 h1 {
   font-size: 2rem;
+  font-family: "Caudex", serif;
   color: aquamarine;
   padding: 1rem;
   justify-content: center;
