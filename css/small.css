@@ -1,7 +1,7 @@
 body {
   font-size: 16pt;
   font-family: "Darker Grotesque", sans-serif;
-  background-color: aquamarine;
+  background-color: lightcyan;
   color: rgb(37, 2, 2);
 }
 
@@ -13,24 +13,28 @@ footer {
 }
 
 header {
-  color: aquamarine;
+  color: red;
   background-color: darkblue;
+  padding-left: 3em;
+  padding-top: 2em;
 }
 
 header img {
   width: 200px;
   height: auto;
   border: solid;
+  
 }
 
 h1 {
   font-size: 1rem;
   font-family: "Caudex", serif;
-  color: aquamarine;
+  color:red;
   padding: 1rem;
 }
 
 footer {
-  color: aquamarine;
+  color: red;
   background-color: darkblue;
+  padding: 1em;
 }
