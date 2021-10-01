@@ -2,39 +2,52 @@ body {
   font-size: 16pt;
   font-family: "Darker Grotesque", sans-serif;
   background-color: lightcyan;
-  color: rgb(37, 2, 2);
+  color: darkslategray;
 }
 
 header,
 main,
 footer {
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
 }
 
 header {
-  color: red;
-  background-color: darkblue;
+  color: lightseagreen;
+  background-color: darkgreen;
   padding-left: 3em;
   padding-top: 2em;
 }
 
 header img {
-  width: 200px;
-  height: auto;
+
   border: solid;
   
+}
+
+a {
+  color:orangered
+}
+
+a:hover {
+  background-color: lightgreen;
 }
 
 h1 {
   font-size: 1rem;
   font-family: "Caudex", serif;
-  color:red;
+  color: lightseagreen;
   padding: 1rem;
 }
 
+h2 {
+  font-size: 1em;
+  font-family: "darker grotesque", sans-serif;
+  color: orangered;
+}
+
 footer {
-  color: red;
-  background-color: darkblue;
+  color: lightseagreen;
+  background-color: darkgreen;
   padding: 1em;
 }
